@@ -6,6 +6,8 @@ require_once(dirname(__FILE__) . '/Ecs.php');
  * Class BrowseNodes : list browse node infos for a specific one or recursively
  *
  * @author Nicolas Mugnier <nicolas@boostmyshop.com>
+ * @link http://docs.aws.amazon.com/AWSECommerceService/latest/DG/BrowseNodeIDs.html
+ * @link http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_ApiReference.html
  */
 class BrowseNodes {
 
